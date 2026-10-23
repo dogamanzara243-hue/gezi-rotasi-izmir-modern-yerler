@@ -4,24 +4,29 @@ const DETAIL_DATA = {
     "badge": "Modern Yerler",
     "items": [
         {
-            "title": "Modern Mekan 1 - Izmir",
-            "desc": "Izmir şehrinin en popüler alışveriş merkezi."
+            "category": "Popüler Nokta 1",
+            "title": "Önemli Mekan 1 - Izmir",
+            "desc": "Izmir şehrinin en çok ziyaret edilen gözde lokasyonlarından biri."
         },
         {
-            "title": "Modern Mekan 2 - Izmir",
-            "desc": "Şehir merkezinde hareketli sosyal yaşam alanı."
+            "category": "Popüler Nokta 2",
+            "title": "Önemli Mekan 2 - Izmir",
+            "desc": "Tarihi ve kültürel dokusuyla büyüleyen özel bir nokta."
         },
         {
-            "title": "Modern Mekan 3 - Izmir",
-            "desc": "Modern mimarisiyle öne çıkan plaza ve yaşam merkezi."
+            "category": "Popüler Nokta 3",
+            "title": "Önemli Mekan 3 - Izmir",
+            "desc": "Gezginlerin rotasından eksik etmediği popüler bir durak."
         },
         {
-            "title": "Modern Mekan 4 - Izmir",
-            "desc": "Kültür ve sanat etkinliklerinin düzenlendiği alan."
+            "category": "Popüler Nokta 4",
+            "title": "Önemli Mekan 4 - Izmir",
+            "desc": "Mimari ve doğal güzellikleriyle göz kamaştıran bölge."
         },
         {
-            "title": "Modern Mekan 5 - Izmir",
-            "desc": "Yeni nesil eğlence ve buluşma noktası."
+            "category": "Popüler Nokta 5",
+            "title": "Önemli Mekan 5 - Izmir",
+            "desc": "Izmir keşif turunun vazgeçilmez simgelerinden biri."
         }
     ]
 };
